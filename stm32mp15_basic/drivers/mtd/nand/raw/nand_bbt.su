@@ -1,0 +1,13 @@
+../drivers/mtd/nand/raw/nand_bbt.c:1024:13:verify_bbt_descr	24	static
+../drivers/mtd/nand/raw/nand_bbt.c:455:12:create_bbt	88	static
+../drivers/mtd/nand/raw/nand_bbt.c:172:12:read_bbt	96	static
+../drivers/mtd/nand/raw/nand_bbt.c:265:12:read_abs_bbt	40	static
+../drivers/mtd/nand/raw/nand_bbt.c:618:12:write_bbt	232	static
+../drivers/mtd/nand/raw/nand_bbt.c:1149:12:nand_update_bbt	40	static
+../drivers/mtd/nand/raw/nand_bbt.c:964:13:mark_bbt_region	40	static
+../drivers/mtd/nand/raw/nand_bbt.c:345:12:scan_read.isra	80	static
+../drivers/mtd/nand/raw/nand_bbt.c:525:12:search_bbt.isra	56	static
+../drivers/mtd/nand/raw/nand_bbt.c:1283:5:nand_default_bbt	72	static
+../drivers/mtd/nand/raw/nand_bbt.c:1319:5:nand_isreserved_bbt	12	static
+../drivers/mtd/nand/raw/nand_bbt.c:1335:5:nand_isbad_bbt	12	static
+../drivers/mtd/nand/raw/nand_bbt.c:1362:5:nand_markbad_bbt	12	static

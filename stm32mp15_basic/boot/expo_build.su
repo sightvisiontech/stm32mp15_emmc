@@ -1,0 +1,5 @@
+../boot/expo_build.c:46:5:add_txt_str	80	static
+../boot/expo_build.c:94:5:add_txt_str_list	80	static
+../boot/expo_build.c:135:5:build_element	0	static
+../boot/expo_build.c:428:5:build_it	112	static
+../boot/expo_build.c:463:5:expo_build	176	static

@@ -1,0 +1,2 @@
+../arch/arm/mach-stm32mp/fdt.c:244:13:fdt_disable_subnode_by_address.isra	24	static
+../arch/arm/mach-stm32mp/fdt.c:470:5:ft_system_setup	56	static

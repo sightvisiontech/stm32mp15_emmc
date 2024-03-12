@@ -1,0 +1,2 @@
+../common/cli_getch.c:27:6:cli_ch_init	0	static
+../common/cli_getch.c:137:5:cli_ch_process	8	static

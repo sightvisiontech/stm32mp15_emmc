@@ -1,0 +1,13 @@
+../drivers/fastboot/fb_getvar.c:130:13:getvar_downloadsize	0	static
+../drivers/fastboot/fb_getvar.c:235:13:getvar_is_userspace	0	static
+../drivers/fastboot/fb_getvar.c:170:13:getvar_current_slot	0	static
+../drivers/fastboot/fb_getvar.c:160:13:getvar_platform	8	static
+../drivers/fastboot/fb_getvar.c:150:13:getvar_product	8	static
+../drivers/fastboot/fb_getvar.c:145:13:getvar_version_baseband	0	static
+../drivers/fastboot/fb_getvar.c:135:13:getvar_serialno	8	static
+../drivers/fastboot/fb_getvar.c:125:13:getvar_version_bootloader	0	static
+../drivers/fastboot/fb_getvar.c:120:13:getvar_version	0	static
+../drivers/fastboot/fb_getvar.c:225:28:getvar_partition_size	168	static
+../drivers/fastboot/fb_getvar.c:208:28:getvar_partition_type	168	static
+../drivers/fastboot/fb_getvar.c:176:28:getvar_has_slot	208	static
+../drivers/fastboot/fb_getvar.c:253:6:fastboot_getvar	96	static

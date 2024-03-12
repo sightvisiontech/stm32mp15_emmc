@@ -1,0 +1,10 @@
+../drivers/mmc/stm32_sdmmc2.c:648:12:stm32_sdmmc2_host_power_cycle	8	static
+../drivers/mmc/stm32_sdmmc2.c:251:13:stm32_sdmmc2_start_cmd	16	static
+../drivers/mmc/stm32_sdmmc2.c:636:12:stm32_sdmmc2_getcd	8	static
+../drivers/mmc/stm32_sdmmc2.c:517:13:stm32_sdmmc2_reset	16	static
+../drivers/mmc/stm32_sdmmc2.c:592:12:stm32_sdmmc2_set_ios	32	static
+../drivers/mmc/stm32_sdmmc2.c:301:12:stm32_sdmmc2_end_cmd	24	static
+../drivers/mmc/stm32_sdmmc2.c:665:12:stm32_sdmmc2_of_to_plat	24	static
+../drivers/mmc/stm32_sdmmc2.c:785:12:stm32_sdmmc2_bind	8	static
+../drivers/mmc/stm32_sdmmc2.c:445:12:stm32_sdmmc2_send_cmd	112	static
+../drivers/mmc/stm32_sdmmc2.c:762:12:stm32_sdmmc2_probe	80	static

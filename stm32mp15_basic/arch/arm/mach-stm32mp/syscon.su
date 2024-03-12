@@ -1,0 +1,1 @@
+../arch/arm/mach-stm32mp/syscon.c:18:12:stm32mp_syscon_probe	16	static

@@ -1,0 +1,2 @@
+../drivers/video/stm32/stm32_ltdc.c:644:12:stm32_ltdc_bind	8	static
+../drivers/video/stm32/stm32_ltdc.c:498:12:stm32_ltdc_probe	240	static

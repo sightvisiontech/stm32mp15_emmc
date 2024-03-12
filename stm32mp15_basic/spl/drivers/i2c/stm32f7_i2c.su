@@ -1,0 +1,5 @@
+../drivers/i2c/stm32f7_i2c.c:861:12:stm32_i2c_set_bus_speed	136	static
+../drivers/i2c/stm32f7_i2c.c:914:12:stm32_of_to_plat	32	static
+../drivers/i2c/stm32f7_i2c.c:875:12:stm32_i2c_probe	32	static
+../drivers/i2c/stm32f7_i2c.c:346:12:stm32_i2c_wait_flags.isra	24	static
+../drivers/i2c/stm32f7_i2c.c:494:12:stm32_i2c_xfer	48	static

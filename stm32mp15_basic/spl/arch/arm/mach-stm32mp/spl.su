@@ -1,0 +1,11 @@
+../arch/arm/mach-stm32mp/spl.c:23:5:spl_boot_device	8	static
+../arch/arm/mach-stm32mp/spl.c:58:5:spl_mmc_boot_mode	0	static
+../arch/arm/mach-stm32mp/spl.c:64:5:spl_mmc_boot_partition	0	static
+../arch/arm/mach-stm32mp/spl.c:78:6:spl_display_print	0	static
+../arch/arm/mach-stm32mp/spl.c:92:12:board_early_init_f	0	static
+../arch/arm/mach-stm32mp/spl.c:97:10:stm32mp_get_dram_size	24	static
+../arch/arm/mach-stm32mp/spl.c:133:6:stm32_init_tzc_for_optee	80	static
+../arch/arm/mach-stm32mp/spl.c:182:6:spl_board_prepare_for_optee	0	static
+../arch/arm/mach-stm32mp/spl.c:187:6:board_init_f	32	static
+../arch/arm/mach-stm32mp/spl.c:244:6:spl_board_prepare_for_boot	0	static
+../arch/arm/mach-stm32mp/spl.c:249:6:spl_board_prepare_for_linux	0	static

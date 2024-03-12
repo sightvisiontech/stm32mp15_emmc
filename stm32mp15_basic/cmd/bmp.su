@@ -1,0 +1,3 @@
+../cmd/bmp.c:76:12:do_bmp	24	static
+../cmd/bmp.c:38:12:do_bmp_display	24	static
+../cmd/bmp.c:19:12:do_bmp_info	8	static

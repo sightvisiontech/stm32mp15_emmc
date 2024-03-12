@@ -1,0 +1,4 @@
+../common/spl/spl_spi.c:72:21:spl_spi_get_uboot_offs	0	static
+../common/spl/spl_spi.c:77:12:spl_spi_boot_bus	0	static
+../common/spl/spl_spi.c:82:12:spl_spi_boot_cs	0	static
+../common/spl/spl_spi.c:92:12:spl_spi_load_image	24	static

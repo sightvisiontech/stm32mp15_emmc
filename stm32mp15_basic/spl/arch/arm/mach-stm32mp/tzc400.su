@@ -1,0 +1,4 @@
+../arch/arm/mach-stm32mp/tzc400.c:79:5:tzc_disable_filters	24	static
+../arch/arm/mach-stm32mp/tzc400.c:91:5:tzc_enable_filters	24	static
+../arch/arm/mach-stm32mp/tzc400.c:49:5:tzc_configure	16	static
+../arch/arm/mach-stm32mp/tzc400.c:111:6:tzc_dump_config	0	static

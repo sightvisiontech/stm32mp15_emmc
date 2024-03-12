@@ -1,0 +1,9 @@
+../drivers/fastboot/fb_mmc.c:162:17:fb_mmc_sparse_reserve	0	static
+../drivers/fastboot/fb_mmc.c:126:17:fb_mmc_blk_write	32	static
+../drivers/fastboot/fb_mmc.c:153:17:fb_mmc_sparse_write	0	static
+../drivers/fastboot/fb_mmc.c:489:25:fastboot_mmc_get_dev	16	static
+../drivers/fastboot/fb_mmc.c:202:12:fb_mmc_erase_mmc_hwpart	24	static
+../drivers/fastboot/fb_mmc.c:223:13:fb_mmc_boot_ops	48	static
+../drivers/fastboot/fb_mmc.c:453:5:fastboot_mmc_get_part_info	160	static
+../drivers/fastboot/fb_mmc.c:510:6:fastboot_mmc_flash_write	392	static
+../drivers/fastboot/fb_mmc.c:646:6:fastboot_mmc_erase	200	static

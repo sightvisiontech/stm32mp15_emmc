@@ -1,0 +1,4 @@
+../drivers/dfu/dfu_ram.c:45:5:dfu_get_medium_size_ram	0	static
+../drivers/dfu/dfu_ram.c:39:12:dfu_write_medium_ram	32	static
+../drivers/dfu/dfu_ram.c:52:12:dfu_read_medium_ram	32	static
+../drivers/dfu/dfu_ram.c:58:5:dfu_fill_entity_ram	48	static

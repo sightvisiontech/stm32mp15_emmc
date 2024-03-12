@@ -1,0 +1,13 @@
+../common/log.c:56:13:log_get_cat_name	8	static
+../common/log.c:74:21:log_get_cat_by_name	16	static
+../common/log.c:89:13:log_get_level_name	0	static
+../common/log.c:96:18:log_get_level_by_name	16	static
+../common/log.c:108:20:log_device_find_by_name	16	static
+../common/log.c:120:6:log_has_cat	0	static
+../common/log.c:132:6:log_has_file	24	static
+../common/log.c:238:5:_log	1088	static
+../common/log.c:294:5:_log_buffer	72	dynamic
+../common/log.c:321:5:log_add_filter_flags	32	static
+../common/log.c:372:5:log_remove_filter	16	static
+../common/log.c:416:5:log_device_set_enable	12	static
+../common/log.c:431:5:log_init	16	static

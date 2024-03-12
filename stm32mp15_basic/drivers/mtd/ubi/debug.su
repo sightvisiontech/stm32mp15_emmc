@@ -1,0 +1,13 @@
+../drivers/mtd/ubi/debug.c:27:6:ubi_dump_flash	80	static
+../drivers/mtd/ubi/debug.c:56:6:ubi_dump_ec_hdr	32	static
+../drivers/mtd/ubi/debug.c:75:6:ubi_dump_vid_hdr	32	static
+../drivers/mtd/ubi/debug.c:100:6:ubi_dump_vol_info	24	static
+../drivers/mtd/ubi/debug.c:132:6:ubi_dump_vtbl_record	56	static
+../drivers/mtd/ubi/debug.c:164:6:ubi_dump_av	32	static
+../drivers/mtd/ubi/debug.c:182:6:ubi_dump_aeb	32	static
+../drivers/mtd/ubi/debug.c:198:6:ubi_dump_mkvol_req	64	static
+../drivers/mtd/ubi/debug.c:542:5:ubi_debugfs_init	0	static
+../drivers/mtd/ubi/debug.c:547:6:ubi_debugfs_exit	0	static
+../drivers/mtd/ubi/debug.c:551:5:ubi_debugfs_init_dev	0	static
+../drivers/mtd/ubi/debug.c:556:6:ubi_debugfs_exit_dev	0	static
+../drivers/mtd/ubi/debug.c:560:5:ubi_dbg_power_cut	0	static

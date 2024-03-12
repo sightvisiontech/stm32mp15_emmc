@@ -1,0 +1,5 @@
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_usb.c:127:5:stm32prog_write_medium_virt	40	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_usb.c:149:5:stm32prog_read_medium_virt	32	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_usb.c:171:5:stm32prog_get_medium_size_virt	0	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_usb.c:195:6:stm32prog_usb_loop	184	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_usb.c:229:5:g_dnl_get_board_bcd_device_number	0	static

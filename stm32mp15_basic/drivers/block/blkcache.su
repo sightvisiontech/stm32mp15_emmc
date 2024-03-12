@@ -1,0 +1,6 @@
+../drivers/block/blkcache.c:55:5:blkcache_read	32	static
+../drivers/block/blkcache.c:76:6:blkcache_fill	40	static
+../drivers/block/blkcache.c:130:6:blkcache_invalidate	32	static
+../drivers/block/blkcache.c:147:6:blkcache_configure	16	static
+../drivers/block/blkcache.c:161:6:blkcache_stats	8	static
+../drivers/block/blkcache.c:168:6:blkcache_free	0	static

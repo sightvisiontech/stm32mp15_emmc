@@ -1,0 +1,5 @@
+../drivers/usb/common/common.c:26:18:usb_get_dr_mode	16	static
+../drivers/usb/common/common.c:44:18:usb_get_role_switch_default_mode	16	static
+../drivers/usb/common/common.c:70:13:usb_speed_string	0	static
+../drivers/usb/common/common.c:77:23:usb_get_maximum_speed	16	static
+../drivers/usb/common/common.c:105:24:usb_get_phy_mode	16	static

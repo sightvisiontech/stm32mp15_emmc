@@ -1,0 +1,5 @@
+../lib/efi_loader/efi_gop.c:41:28:gop_query_mode	24	static
+../lib/efi_loader/efi_gop.c:279:21:gop_blt_video_fill.constprop	40	static
+../lib/efi_loader/efi_gop.c:360:28:gop_set_mode	40	static
+../lib/efi_loader/efi_gop.c:404:28:gop_blt	72	static
+../lib/efi_loader/efi_gop.c:466:14:efi_gop_register	48	static

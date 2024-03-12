@@ -1,0 +1,20 @@
+.stm32mp157a-microgea-stm32mp1-microdev2.0.dtb.pre.o: \
+ arch/arm/dts/.stm32mp157a-microgea-stm32mp1-microdev2.0.dtb.pre.tmp \
+ ../include/linux/kconfig.h include/generated/autoconf.h \
+ ../arch/arm/dts/stm32mp157.dtsi ../arch/arm/dts/stm32mp153.dtsi \
+ ../arch/arm/dts/stm32mp151.dtsi \
+ ../include/dt-bindings/interrupt-controller/arm-gic.h \
+ ../include/dt-bindings/interrupt-controller/irq.h \
+ ../include/dt-bindings/clock/stm32mp1-clks.h \
+ ../include/dt-bindings/reset/stm32mp1-resets.h \
+ ../arch/arm/dts/stm32mp157a-microgea-stm32mp1.dtsi \
+ ../arch/arm/dts/stm32mp15-pinctrl.dtsi \
+ ../include/dt-bindings/pinctrl/stm32-pinfunc.h \
+ ../arch/arm/dts/stm32mp15xxaa-pinctrl.dtsi \
+ ../include/dt-bindings/gpio/gpio.h \
+ ../arch/arm/dts/stm32mp157a-microgea-stm32mp1-microdev2.0-u-boot.dtsi \
+ ../arch/arm/dts/stm32mp157a-microgea-stm32mp1-u-boot.dtsi \
+ ../include/dt-bindings/clock/stm32mp1-clksrc.h \
+ ../arch/arm/dts/stm32mp15-u-boot.dtsi \
+ ../arch/arm/dts/stm32mp15-ddr3-1x4Gb-1066-binG.dtsi \
+ ../arch/arm/dts/stm32mp15-ddr.dtsi ../include/linux/stringify.h

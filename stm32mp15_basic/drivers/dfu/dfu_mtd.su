@@ -1,0 +1,8 @@
+../drivers/dfu/dfu_mtd.c:195:12:dfu_get_medium_size_mtd	0	static
+../drivers/dfu/dfu_mtd.c:274:21:dfu_polltimeout_mtd	0	static
+../drivers/dfu/dfu_mtd.c:236:12:dfu_flush_medium_mtd	88	static
+../drivers/dfu/dfu_mtd.c:16:13:mtd_is_aligned_with_block_size.isra	16	static
+../drivers/dfu/dfu_mtd.c:35:12:mtd_block_op	176	static
+../drivers/dfu/dfu_mtd.c:219:12:dfu_write_medium_mtd	8	static
+../drivers/dfu/dfu_mtd.c:202:12:dfu_read_medium_mtd	8	static
+../drivers/dfu/dfu_mtd.c:287:5:dfu_fill_entity_mtd	40	static

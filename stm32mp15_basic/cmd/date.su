@@ -1,0 +1,3 @@
+../cmd/date.c:131:12:cnvrt2	0	static
+../cmd/date.c:156:5:mk_date	32	static
+../cmd/date.c:27:12:do_date	72	static

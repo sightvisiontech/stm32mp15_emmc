@@ -1,0 +1,7 @@
+ImagePos    Offset      Size  Name
+00000000  00000000  00021a51  spl-stm32
+00000000   00000000  00021a51  mkimage
+00000048    00000048  00021951  u-boot-spl
+00000048     00000000  0001eee8  u-boot-spl-nodtb
+0001ef30     0001eee8  00000290  u-boot-spl-bss-pad
+0001f1c0     0001f178  000027d9  u-boot-spl-dtb

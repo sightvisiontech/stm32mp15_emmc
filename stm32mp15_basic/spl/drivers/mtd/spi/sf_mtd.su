@@ -1,0 +1,2 @@
+../drivers/mtd/spi/sf_mtd.c:14:5:spi_flash_mtd_register	0	static
+../drivers/mtd/spi/sf_mtd.c:19:6:spi_flash_mtd_unregister	0	static

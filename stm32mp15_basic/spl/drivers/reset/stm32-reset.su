@@ -1,0 +1,3 @@
+../drivers/reset/stm32-reset.c:51:12:stm32_reset_deassert	24	static
+../drivers/reset/stm32-reset.c:30:12:stm32_reset_assert	24	static
+../drivers/reset/stm32-reset.c:77:12:stm32_reset_probe	16	static

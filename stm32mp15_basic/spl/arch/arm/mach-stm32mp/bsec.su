@@ -1,0 +1,10 @@
+../arch/arm/mach-stm32mp/bsec.c:113:13:bsec_read_lock	0	static
+../arch/arm/mach-stm32mp/bsec.c:130:12:bsec_check_error	0	static
+../arch/arm/mach-stm32mp/bsec.c:185:12:bsec_power_safmem	24	static
+../arch/arm/mach-stm32mp/bsec.c:723:12:stm32mp_bsec_of_to_plat	16	static
+../arch/arm/mach-stm32mp/bsec.c:211:12:bsec_shadow_register.constprop	24	static
+../arch/arm/mach-stm32mp/bsec.c:732:12:stm32mp_bsec_probe	24	static
+../arch/arm/mach-stm32mp/bsec.c:607:12:stm32mp_bsec_read	48	static
+../arch/arm/mach-stm32mp/bsec.c:663:12:stm32mp_bsec_write	48	static
+../arch/arm/mach-stm32mp/bsec.c:781:6:bsec_dbgswenable	16	static
+../arch/arm/mach-stm32mp/bsec.c:801:5:get_otp	24	static

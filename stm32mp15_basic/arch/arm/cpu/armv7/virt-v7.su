@@ -1,0 +1,5 @@
+../arch/arm/cpu/armv7/virt-v7.c:27:22:get_gicd_base_address	8	static
+../arch/arm/cpu/armv7/virt-v7.c:52:13:protect_secure_section	0	static
+../arch/arm/cpu/armv7/virt-v7.c:75:13:smp_kick_all_cpus	8	static
+../arch/arm/cpu/armv7/virt-v7.c:86:13:psci_board_init	0	static
+../arch/arm/cpu/armv7/virt-v7.c:90:5:armv7_init_nonsec	8	static

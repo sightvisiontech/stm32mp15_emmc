@@ -1,0 +1,15 @@
+../drivers/fastboot/fb_command.c:474:28:oem_bootbus	48	static
+../drivers/fastboot/fb_command.c:448:28:oem_partconf	48	static
+../drivers/fastboot/fb_command.c:165:13:okay	0	static
+../drivers/fastboot/fb_command.c:411:13:reboot_recovery	8	static
+../drivers/fastboot/fb_command.c:397:13:reboot_fastbootd	8	static
+../drivers/fastboot/fb_command.c:383:13:reboot_bootloader	8	static
+../drivers/fastboot/fb_command.c:317:28:erase	0	static
+../drivers/fastboot/fb_command.c:297:28:flash	0	static
+../drivers/fastboot/fb_command.c:187:13:download	24	static
+../drivers/fastboot/fb_command.c:176:13:getvar	0	static
+../drivers/fastboot/fb_command.c:128:5:fastboot_handle_command	48	static
+../drivers/fastboot/fb_command.c:221:5:fastboot_data_remaining	0	static
+../drivers/fastboot/fb_command.c:240:6:fastboot_data_download	24	static
+../drivers/fastboot/fb_command.c:277:6:fastboot_data_complete	8	static
+../drivers/fastboot/fb_command.c:348:6:fastboot_acmd_complete	0	static

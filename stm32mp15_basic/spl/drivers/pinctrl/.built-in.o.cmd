@@ -1,0 +1,1 @@
+cmd_spl/drivers/pinctrl/built-in.o :=  rm -f spl/drivers/pinctrl/built-in.o; arm-linux-gnueabi-ar cDPrsT spl/drivers/pinctrl/built-in.o spl/drivers/pinctrl/pinctrl-uclass.o spl/drivers/pinctrl/nxp/built-in.o spl/drivers/pinctrl/pinctrl_stm32.o spl/drivers/pinctrl/broadcom/built-in.o

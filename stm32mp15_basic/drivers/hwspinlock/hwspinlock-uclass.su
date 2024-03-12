@@ -1,0 +1,3 @@
+../drivers/hwspinlock/hwspinlock-uclass.c:40:5:hwspinlock_get_by_index	104	static
+../drivers/hwspinlock/hwspinlock-uclass.c:82:5:hwspinlock_lock_timeout	24	static
+../drivers/hwspinlock/hwspinlock-uclass.c:110:5:hwspinlock_unlock	0	static

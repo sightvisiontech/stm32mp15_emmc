@@ -1,0 +1,10 @@
+../drivers/mtd/nand/spi/gigadevice.c:54:12:gd5fxgq4xa_ooblayout_ecc	0	static
+../drivers/mtd/nand/spi/gigadevice.c:66:12:gd5fxgq4xa_ooblayout_free	0	static
+../drivers/mtd/nand/spi/gigadevice.c:88:12:gd5fxgq4xa_ecc_get_status	0	static
+../drivers/mtd/nand/spi/gigadevice.c:112:12:gd5fxgqx_variant2_ooblayout_ecc	0	static
+../drivers/mtd/nand/spi/gigadevice.c:124:12:gd5fxgqx_variant2_ooblayout_free	0	static
+../drivers/mtd/nand/spi/gigadevice.c:143:12:gd5fxgq4xc_ooblayout_256_ecc	0	static
+../drivers/mtd/nand/spi/gigadevice.c:155:12:gd5fxgq4xc_ooblayout_256_free	0	static
+../drivers/mtd/nand/spi/gigadevice.c:251:12:gd5fxgq4ufxxg_ecc_get_status	0	static
+../drivers/mtd/nand/spi/gigadevice.c:214:12:gd5fxgq5xexxg_ecc_get_status	72	static
+../drivers/mtd/nand/spi/gigadevice.c:172:12:gd5fxgq4uexxg_ecc_get_status	72	static

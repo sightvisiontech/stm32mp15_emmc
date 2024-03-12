@@ -1,0 +1,5 @@
+../drivers/rng/stm32_rng.c:159:12:stm32_rng_conceal_seed_error	32	static
+../drivers/rng/stm32_rng.c:169:12:stm32_rng_read	56	static
+../drivers/rng/stm32_rng.c:350:12:stm32_rng_of_to_plat	16	static
+../drivers/rng/stm32_rng.c:343:12:stm32_rng_remove	8	static
+../drivers/rng/stm32_rng.c:330:12:stm32_rng_probe	40	static

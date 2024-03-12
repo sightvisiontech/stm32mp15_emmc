@@ -1,0 +1,9 @@
+../drivers/watchdog/wdt-uclass.c:240:12:wdt_pre_probe	24	static
+../drivers/watchdog/wdt-uclass.c:112:5:wdt_start	56	static
+../drivers/watchdog/wdt-uclass.c:88:5:initr_watchdog	40	static
+../drivers/watchdog/wdt-uclass.c:151:5:wdt_stop	16	static
+../drivers/watchdog/wdt-uclass.c:169:5:wdt_stop_all	24	static
+../drivers/watchdog/wdt-uclass.c:194:5:wdt_reset	0	static
+../drivers/watchdog/wdt-uclass.c:47:13:wdt_cyclic	8	static
+../drivers/watchdog/wdt-uclass.c:204:5:wdt_expire_now	16	static
+../drivers/watchdog/wdt-uclass.c:231:6:watchdog_reset	0	static

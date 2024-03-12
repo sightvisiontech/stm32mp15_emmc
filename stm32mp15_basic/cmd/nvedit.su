@@ -1,0 +1,17 @@
+../cmd/nvedit.c:659:12:do_env_delete	24	static
+../cmd/nvedit.c:205:12:_do_env_set	72	static
+../cmd/nvedit.c:300:12:do_env_set	0	static
+../cmd/nvedit.c:575:12:do_env_save	8	static
+../cmd/nvedit.c:588:12:do_env_erase	8	static
+../cmd/nvedit.c:1222:12:do_env	24	static
+../cmd/nvedit.c:72:12:env_print	56	static
+../cmd/nvedit.c:103:12:do_env_print	24	static
+../cmd/nvedit.c:873:12:do_env_import	72	static
+../cmd/nvedit.c:621:12:do_env_default	16	static
+../cmd/nvedit.c:1151:12:do_env_exists	48	static
+../cmd/nvedit.c:1077:12:do_env_info	16	static
+../cmd/nvedit.c:538:12:do_env_edit.part.0	1056	static
+../cmd/nvedit.c:538:12:do_env_edit	4	static
+../cmd/nvedit.c:61:5:env_get_id	0	static
+../cmd/nvedit.c:285:5:env_set	24	static
+../cmd/nvedit.c:740:12:do_env_export	96	static

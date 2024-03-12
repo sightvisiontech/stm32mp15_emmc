@@ -1,0 +1,7 @@
+../drivers/mtd/nand/spi/micron.c:62:12:micron_8_ooblayout_ecc	0	static
+../drivers/mtd/nand/spi/micron.c:74:12:micron_8_ooblayout_free	0	static
+../drivers/mtd/nand/spi/micron.c:92:12:micron_4_ooblayout_ecc	16	static
+../drivers/mtd/nand/spi/micron.c:107:12:micron_4_ooblayout_free	16	static
+../drivers/mtd/nand/spi/micron.c:147:12:micron_8_ecc_get_status	0	static
+../drivers/mtd/nand/spi/micron.c:133:12:micron_select_target	64	static
+../drivers/mtd/nand/spi/micron.c:288:12:micron_spinand_init	0	static

@@ -1,0 +1,2 @@
+../common/usb_onboard_hub.c:37:12:usb_onboard_hub_remove	40	static
+../common/usb_onboard_hub.c:19:12:usb_onboard_hub_probe	40	static

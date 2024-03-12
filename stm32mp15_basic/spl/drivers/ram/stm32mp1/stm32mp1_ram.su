@@ -1,0 +1,6 @@
+../drivers/ram/stm32mp1/stm32mp1_ram.c:387:12:stm32mp1_ddr_get_info	8	static
+../drivers/ram/stm32mp1/stm32mp1_ram.c:35:5:stm32mp1_ddr_clk_enable	80	static
+../drivers/ram/stm32mp1/stm32mp1_ram.c:71:12:board_stm32mp1_ddr_config_name_match	0	static
+../drivers/ram/stm32mp1/stm32mp1_ram.c:92:12:stm32mp1_ddr_setup	512	static
+../drivers/ram/stm32mp1/stm32mp1_ram.c:356:12:stm32mp1_ddr_probe	24	static
+../drivers/ram/stm32mp1/stm32mp1_ram.c:329:5:stm32mp1_ddr_size	32	static

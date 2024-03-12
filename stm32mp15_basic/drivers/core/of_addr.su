@@ -1,0 +1,11 @@
+../drivers/core/of_addr.c:60:12:of_bus_default_map	20	static
+../drivers/core/of_addr.c:90:21:of_bus_default_get_flags	0	static
+../drivers/core/of_addr.c:78:12:of_bus_default_translate	32	static
+../drivers/core/of_addr.c:51:13:of_bus_default_count_cells	16	static
+../drivers/core/of_addr.c:111:23:of_match_bus	8	static
+../drivers/core/of_addr.c:241:12:__of_translate_address	96	static
+../drivers/core/of_addr.c:122:15:of_get_address	48	static
+../drivers/core/of_addr.c:317:5:of_translate_address	0	static
+../drivers/core/of_addr.c:322:5:of_translate_dma_address	0	static
+../drivers/core/of_addr.c:327:5:of_get_dma_range	56	static
+../drivers/core/of_addr.c:425:5:of_address_to_resource	56	static

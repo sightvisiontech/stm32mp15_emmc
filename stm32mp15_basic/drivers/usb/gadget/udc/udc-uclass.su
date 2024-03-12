@@ -1,0 +1,2 @@
+../drivers/usb/gadget/udc/udc-uclass.c:16:5:udc_device_get_by_index	32	static
+../drivers/usb/gadget/udc/udc-uclass.c:37:5:udc_device_put	0	static

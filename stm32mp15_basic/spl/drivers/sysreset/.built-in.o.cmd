@@ -1,0 +1,1 @@
+cmd_spl/drivers/sysreset/built-in.o :=  rm -f spl/drivers/sysreset/built-in.o; arm-linux-gnueabi-ar cDPrsT spl/drivers/sysreset/built-in.o spl/drivers/sysreset/sysreset-uclass.o spl/drivers/sysreset/sysreset_syscon.o

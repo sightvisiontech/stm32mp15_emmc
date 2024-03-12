@@ -1,0 +1,11 @@
+../common/spl/spl_mmc.c:273:5:spl_start_uboot	0	static
+../common/spl/spl_mmc.c:350:12:spl_mmc_boot_mode	0	static
+../common/spl/spl_mmc.c:362:12:spl_mmc_boot_partition	0	static
+../common/spl/spl_mmc.c:368:22:arch_spl_mmc_get_uboot_raw_sector	0	static
+../common/spl/spl_mmc.c:374:22:board_spl_mmc_get_uboot_raw_sector	0	static
+../common/spl/spl_mmc.c:380:22:spl_mmc_get_uboot_raw_sector	0	static
+../common/spl/spl_mmc.c:386:5:default_spl_mmc_emmc_boot_partition	0	static
+../common/spl/spl_mmc.c:404:12:spl_mmc_emmc_boot_partition	0	static
+../common/spl/spl_mmc.c:422:6:spl_mmc_clear_cache	0	static
+../common/spl/spl_mmc.c:427:5:spl_mmc_load	192	static
+../common/spl/spl_mmc.c:517:5:spl_mmc_load_image	24	static

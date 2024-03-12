@@ -1,0 +1,3 @@
+../common/spl/spl_legacy.c:20:13:spl_parse_legacy_validate	16	static
+../common/spl/spl_legacy.c:36:5:spl_parse_legacy_header	8	static
+../common/spl/spl_legacy.c:99:5:spl_load_legacy_img	24	static

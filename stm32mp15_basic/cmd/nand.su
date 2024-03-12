@@ -1,0 +1,4 @@
+../cmd/nand.c:236:12:set_dev	16	static
+../cmd/nand.c:1062:12:do_nandboot	64	static
+../cmd/nand.c:405:13:nand_print_and_set_info.constprop	8	static
+../cmd/nand.c:496:12:do_nand	480	static

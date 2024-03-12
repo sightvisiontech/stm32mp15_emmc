@@ -1,0 +1,7 @@
+../drivers/remoteproc/stm32_copro.c:202:12:stm32_copro_is_running	0	static
+../drivers/remoteproc/stm32_copro.c:67:14:stm32_copro_device_to_virt	56	static
+../drivers/remoteproc/stm32_copro.c:163:12:stm32_copro_reset	40	static
+../drivers/remoteproc/stm32_copro.c:192:12:stm32_copro_stop	0	static
+../drivers/remoteproc/stm32_copro.c:129:12:stm32_copro_start	48	static
+../drivers/remoteproc/stm32_copro.c:95:12:stm32_copro_load	56	static
+../drivers/remoteproc/stm32_copro.c:36:12:stm32_copro_probe	40	static

@@ -1,0 +1,15 @@
+../boot/scene_menu.c:28:6:scene_menu_destroy	16	static
+../boot/scene_menu.c:36:23:scene_menuitem_find	8	static
+../boot/scene_menu.c:72:12:update_pointers.isra	24	static
+../boot/scene_menu.c:109:13:menu_point_to_item	16	static
+../boot/scene_menu.c:49:23:scene_menuitem_find_seq	12	static
+../boot/scene_menu.c:117:6:scene_menu_calc_bbox	32	static
+../boot/scene_menu.c:148:5:scene_menu_calc_dims	56	static
+../boot/scene_menu.c:172:5:scene_menu_arrange	56	static
+../boot/scene_menu.c:275:5:scene_menu	24	static
+../boot/scene_menu.c:317:5:scene_menu_send_key	32	static
+../boot/scene_menu.c:387:5:scene_menuitem	32	static
+../boot/scene_menu.c:425:5:scene_menu_set_title	16	static
+../boot/scene_menu.c:446:5:scene_menu_set_pointer	16	static
+../boot/scene_menu.c:467:5:scene_menu_display	48	static
+../boot/scene_menu.c:519:5:scene_menu_render_deps	16	static

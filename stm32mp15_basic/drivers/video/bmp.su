@@ -1,0 +1,3 @@
+../drivers/video/bmp.c:37:19:gunzip_bmp	0	static
+../drivers/video/bmp.c:84:5:bmp_info	8	static
+../drivers/video/bmp.c:110:5:bmp_display	32	static

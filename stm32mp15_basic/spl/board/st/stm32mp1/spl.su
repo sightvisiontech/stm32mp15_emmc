@@ -1,0 +1,2 @@
+../board/st/stm32mp1/spl.c:16:6:board_vddcore_init	0	static
+../board/st/stm32mp1/spl.c:22:5:board_early_init_f	8	static

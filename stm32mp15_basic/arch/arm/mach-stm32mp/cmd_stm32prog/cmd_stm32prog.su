@@ -1,0 +1,2 @@
+../arch/arm/mach-stm32mp/cmd_stm32prog/cmd_stm32prog.c:40:12:do_stm32prog	200	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/cmd_stm32prog.c:185:6:stm32prog_get_fsbl_nor	0	static

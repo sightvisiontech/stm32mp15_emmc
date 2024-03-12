@@ -1,0 +1,2 @@
+../drivers/sysreset/sysreset_syscon.c:26:12:syscon_reboot_request	16	static
+../drivers/sysreset/sysreset_syscon.c:43:12:syscon_reboot_probe	24	static

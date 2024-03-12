@@ -1,0 +1,13 @@
+../cmd/mtd.c:567:1:complete_mtd	24	static
+../cmd/mtd.c:53:13:mtd_dump_buf	40	static
+../cmd/mtd.c:103:13:mtd_show_parts	48	static
+../cmd/mtd.c:22:25:get_mtd_by_name	16	static
+../cmd/mtd.c:48:13:mtd_is_aligned_with_block_size	16	static
+../cmd/mtd.c:393:12:do_mtd_erase	128	static
+../cmd/mtd.c:43:13:mtd_is_aligned_with_min_io_size	16	static
+../cmd/mtd.c:36:13:mtd_len_to_pages	16	static
+../cmd/mtd.c:508:12:mtd_name_complete	32	static
+../cmd/mtd.c:250:12:do_mtd_io	136	static
+../cmd/mtd.c:205:12:do_mtd_list	296	static
+../cmd/mtd.c:567:1:do_mtd	24	static
+../cmd/mtd.c:477:12:do_mtd_bad	24	static

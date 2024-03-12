@@ -1,0 +1,9 @@
+../arch/arm/mach-stm32mp/pwr_regulator.c:38:12:stm32mp_pwr_write	16	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:52:12:stm32mp_pwr_read	16	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:65:12:stm32mp_pwr_of_to_plat	16	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:82:12:stm32mp_pwr_bind	8	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:208:12:stm32mp_pwr_regulator_get_enable	24	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:223:12:stm32mp_pwr_regulator_set_enable	32	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:176:12:stm32mp_pwr_regulator_set_value	8	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:192:12:stm32mp_pwr_regulator_get_value	8	static
+../arch/arm/mach-stm32mp/pwr_regulator.c:138:12:stm32mp_pwr_regulator_probe	32	static

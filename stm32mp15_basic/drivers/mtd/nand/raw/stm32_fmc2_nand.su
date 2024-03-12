@@ -1,0 +1,14 @@
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:280:13:stm32_fmc2_nfc_cmd_ctrl	0	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:779:12:stm32_fmc2_nfc_calc_ecc_bytes	0	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:349:12:stm32_fmc2_nfc_ham_correct	16	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:183:13:stm32_fmc2_nfc_timings_init	12	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:729:12:stm32_fmc2_nfc_setup_interface	40	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:238:13:stm32_fmc2_nfc_select_chip	4	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:507:12:stm32_fmc2_nfc_read_page	80	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:893:12:stm32_fmc2_nfc_probe	80	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:269:13:stm32_fmc2_nfc_set_ecc.isra	0	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:323:12:stm32_fmc2_nfc_ham_calculate	24	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:407:12:stm32_fmc2_nfc_bch_calculate	32	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:453:12:stm32_fmc2_nfc_bch_correct	56	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:301:13:stm32_fmc2_nfc_hwctl	16	static
+../drivers/mtd/nand/raw/stm32_fmc2_nand.c:1051:6:board_nand_init	32	static

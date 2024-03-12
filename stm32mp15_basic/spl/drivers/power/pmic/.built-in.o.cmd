@@ -1,0 +1,1 @@
+cmd_spl/drivers/power/pmic/built-in.o :=  rm -f spl/drivers/power/pmic/built-in.o; arm-linux-gnueabi-ar cDPrsT spl/drivers/power/pmic/built-in.o spl/drivers/power/pmic/pmic-uclass.o spl/drivers/power/pmic/stpmic1.o

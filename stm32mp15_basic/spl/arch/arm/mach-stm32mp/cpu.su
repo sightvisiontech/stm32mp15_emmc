@@ -1,0 +1,15 @@
+../arch/arm/mach-stm32mp/cpu.c:36:5:get_bootmode	0	static
+../arch/arm/mach-stm32mp/cpu.c:43:5:get_bootauth	0	static
+../arch/arm/mach-stm32mp/cpu.c:54:6:dram_bank_mmu_setup	0	static
+../arch/arm/mach-stm32mp/cpu.c:113:5:arch_cpu_init	8	static
+../arch/arm/mach-stm32mp/cpu.c:124:13:stm32mp_cpu_init	0	static
+../arch/arm/mach-stm32mp/cpu.c:128:5:mach_cpu_init	8	static
+../arch/arm/mach-stm32mp/cpu.c:145:6:enable_caches	8	static
+../arch/arm/mach-stm32mp/cpu.c:162:5:print_cpuinfo	32	static
+../arch/arm/mach-stm32mp/cpu.c:298:12:setup_mac_address	72	static
+../arch/arm/mach-stm32mp/cpu.c:377:13:stm32mp_misc_init	0	static
+../arch/arm/mach-stm32mp/cpu.c:396:5:arch_misc_init	160	static
+../arch/arm/mach-stm32mp/cpu.c:420:6:save_boot_params	0	static
+../arch/arm/mach-stm32mp/cpu.c:432:11:get_stm32mp_rom_api_table	0	static
+../arch/arm/mach-stm32mp/cpu.c:437:11:get_stm32mp_bl2_dtb	0	static
+../arch/arm/mach-stm32mp/cpu.c:443:17:jump_to_image_no_args	8	static

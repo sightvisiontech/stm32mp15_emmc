@@ -1,0 +1,1 @@
+cmd_spl/boot/built-in.o :=  rm -f spl/boot/built-in.o; arm-linux-gnueabi-ar cDPrsT spl/boot/built-in.o spl/boot/image.o spl/boot/image-board.o spl/boot/image-android.o spl/boot/image-android-dt.o spl/boot/fdt_support.o spl/boot/image-fdt.o

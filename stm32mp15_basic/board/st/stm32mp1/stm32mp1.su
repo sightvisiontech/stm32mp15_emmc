@@ -1,0 +1,17 @@
+../board/st/stm32mp1/stm32mp1.c:927:13:board_copro_image_process	48	static
+../board/st/stm32mp1/stm32mp1.c:286:28:led_error_blink.part.0	32	static
+../board/st/stm32mp1/stm32mp1.c:270:12:setup_led.isra	16	static
+../board/st/stm32mp1/stm32mp1.c:101:5:board_early_init_f	0	static
+../board/st/stm32mp1/stm32mp1.c:107:5:checkboard	56	static
+../board/st/stm32mp1/stm32mp1.c:200:5:g_dnl_board_usb_cable_connected	16	static
+../board/st/stm32mp1/stm32mp1.c:235:5:g_dnl_bind_fixup	16	static
+../board/st/stm32mp1/stm32mp1.c:659:5:board_init	56	static
+../board/st/stm32mp1/stm32mp1.c:690:5:board_late_init	416	static
+../board/st/stm32mp1/stm32mp1.c:740:6:board_quiesce_devices	0	static
+../board/st/stm32mp1/stm32mp1.c:746:5:board_interface_eth_init	16	static
+../board/st/stm32mp1/stm32mp1.c:815:19:env_get_location	8	static
+../board/st/stm32mp1/stm32mp1.c:850:13:env_ext4_get_intf	8	static
+../board/st/stm32mp1/stm32mp1.c:863:5:mmc_get_boot	72	static
+../board/st/stm32mp1/stm32mp1.c:888:13:env_ext4_get_dev_part	8	static
+../board/st/stm32mp1/stm32mp1.c:904:5:mmc_get_env_dev	0	static
+../board/st/stm32mp1/stm32mp1.c:916:5:ft_board_setup	8	static

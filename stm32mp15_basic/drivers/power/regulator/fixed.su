@@ -1,0 +1,7 @@
+../drivers/power/regulator/fixed.c:80:12:fixed_regulator_set_enable	16	static
+../drivers/power/regulator/fixed.c:75:12:fixed_regulator_get_enable	8	static
+../drivers/power/regulator/fixed.c:59:12:fixed_regulator_get_current	8	static
+../drivers/power/regulator/fixed.c:43:12:fixed_regulator_get_value	8	static
+../drivers/power/regulator/fixed.c:26:12:fixed_regulator_of_to_plat	16	static
+../drivers/power/regulator/fixed.c:85:12:fixed_clock_regulator_get_enable	8	static
+../drivers/power/regulator/fixed.c:92:12:fixed_clock_regulator_set_enable	16	static

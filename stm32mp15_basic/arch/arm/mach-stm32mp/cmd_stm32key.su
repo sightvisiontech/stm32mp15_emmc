@@ -1,0 +1,13 @@
+../arch/arm/mach-stm32mp/cmd_stm32key.c:430:1:complete_stm32key	24	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:230:13:display_key_info	8	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:236:12:do_stm32key_list	8	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:159:12:read_close_status	32	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:111:12:read_key_otp	64	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:216:12:confirm_prog	8	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:100:13:read_key_value	32	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:430:1:do_stm32key	24	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:246:12:do_stm32key_select	16	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:89:12:get_misc_dev	16	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:370:12:do_stm32key_close	32	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:272:12:do_stm32key_read	24	static
+../arch/arm/mach-stm32mp/cmd_stm32key.c:320:12:do_stm32key_fuse	80	static

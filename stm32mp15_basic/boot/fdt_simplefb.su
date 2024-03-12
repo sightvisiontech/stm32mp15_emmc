@@ -1,0 +1,3 @@
+../boot/fdt_simplefb.c:18:12:fdt_simplefb_configure_node	48	static
+../boot/fdt_simplefb.c:53:5:fdt_simplefb_add_node	24	static
+../boot/fdt_simplefb.c:92:5:fdt_simplefb_enable_and_mem_rsv	32	static

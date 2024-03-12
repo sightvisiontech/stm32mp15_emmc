@@ -1,0 +1,2 @@
+../arch/arm/mach-stm32mp/dram_init.c:20:5:dram_init	24	static
+../arch/arm/mach-stm32mp/dram_init.c:43:13:board_get_usable_ram_top	256	static

@@ -1,0 +1,12 @@
+../drivers/clk/stm32/clk-stm32mp1.c:920:14:pll_get_fvco	24	static
+../drivers/clk/stm32/clk-stm32mp1.c:954:14:stm32mp1_read_pll_freq	16	static
+../drivers/clk/stm32/clk-stm32mp1.c:973:14:stm32mp1_clk_get_by_name	72	static
+../drivers/clk/stm32/clk-stm32mp1.c:991:14:stm32mp1_clk_get	16	static
+../drivers/clk/stm32/clk-stm32mp1.c:2276:12:stm32mp1_clk_probe	72	static
+../drivers/clk/stm32/clk-stm32mp1.c:815:12:stm32mp1_clk_get_id.isra	24	static
+../drivers/clk/stm32/clk-stm32mp1.c:857:12:stm32mp1_clk_get_parent	32	static
+../drivers/clk/stm32/clk-stm32mp1.c:2159:14:stm32mp1_clk_set_rate	48	static
+../drivers/clk/stm32/clk-stm32mp1.c:1210:14:stm32mp1_clk_get_rate	16	static
+../drivers/clk/stm32/clk-stm32mp1.c:1170:12:stm32mp1_clk_enable	16	static
+../drivers/clk/stm32/clk-stm32mp1.c:1189:12:stm32mp1_clk_disable	16	static
+../drivers/clk/stm32/clk-stm32mp1.c:2256:5:soc_clk_dump	80	static

@@ -1,0 +1,1 @@
+cmd_spl/drivers/spi/built-in.o :=  rm -f spl/drivers/spi/built-in.o; arm-linux-gnueabi-ar cDPrsT spl/drivers/spi/built-in.o spl/drivers/spi/spi-uclass.o spl/drivers/spi/spi-mem.o spl/drivers/spi/stm32_qspi.o spl/drivers/spi/stm32_spi.o

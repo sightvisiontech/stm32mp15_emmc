@@ -1,0 +1,9 @@
+../drivers/remoteproc/rproc-elf-loader.c:50:5:rproc_elf32_sanity_check	16	static
+../drivers/remoteproc/rproc-elf-loader.c:107:5:rproc_elf64_sanity_check	16	static
+../drivers/remoteproc/rproc-elf-loader.c:162:5:rproc_elf32_load_image	64	static
+../drivers/remoteproc/rproc-elf-loader.c:208:5:rproc_elf64_load_image	96	static
+../drivers/remoteproc/rproc-elf-loader.c:262:5:rproc_elf_load_image	24	static
+../drivers/remoteproc/rproc-elf-loader.c:291:7:rproc_elf_get_boot_addr	0	static
+../drivers/remoteproc/rproc-elf-loader.c:375:5:rproc_elf32_load_rsc_table	40	static
+../drivers/remoteproc/rproc-elf-loader.c:484:5:rproc_elf64_load_rsc_table	48	static
+../drivers/remoteproc/rproc-elf-loader.c:520:5:rproc_elf_load_rsc_table	4	static

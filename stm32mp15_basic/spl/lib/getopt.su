@@ -1,0 +1,2 @@
+../lib/getopt.c:15:6:getopt_init_state	0	static
+../lib/getopt.c:21:5:__getopt	32	static

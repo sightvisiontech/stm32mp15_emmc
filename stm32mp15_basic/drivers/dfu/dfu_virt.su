@@ -1,0 +1,4 @@
+../drivers/dfu/dfu_virt.c:11:12:dfu_write_medium_virt	0	static
+../drivers/dfu/dfu_virt.c:19:12:dfu_get_medium_size_virt	0	static
+../drivers/dfu/dfu_virt.c:26:12:dfu_read_medium_virt	0	static
+../drivers/dfu/dfu_virt.c:35:5:dfu_fill_entity_virt	16	static

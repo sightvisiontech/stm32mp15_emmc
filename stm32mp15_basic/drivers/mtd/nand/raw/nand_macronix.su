@@ -1,0 +1,1 @@
+../drivers/mtd/nand/raw/nand_macronix.c:21:12:macronix_nand_init	0	static

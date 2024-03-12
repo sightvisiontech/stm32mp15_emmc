@@ -1,0 +1,9 @@
+../drivers/gpio/stm32_gpio.c:36:13:stm32_gpio_set_moder	8	static
+../drivers/gpio/stm32_gpio.c:202:12:stm32_gpio_get_flags	24	static
+../drivers/gpio/stm32_gpio.c:251:12:gpio_stm32_probe	152	static
+../drivers/gpio/stm32_gpio.c:93:12:stm32_gpio_direction_input	16	static
+../drivers/gpio/stm32_gpio.c:106:12:stm32_gpio_direction_output	24	static
+../drivers/gpio/stm32_gpio.c:122:12:stm32_gpio_get_value	16	static
+../drivers/gpio/stm32_gpio.c:133:12:stm32_gpio_set_value	24	static
+../drivers/gpio/stm32_gpio.c:146:12:stm32_gpio_get_function	16	static
+../drivers/gpio/stm32_gpio.c:171:12:stm32_gpio_set_flags	24	static

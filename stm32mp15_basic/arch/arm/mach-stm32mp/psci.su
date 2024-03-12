@@ -1,0 +1,13 @@
+../arch/arm/mach-stm32mp/psci.c:371:22:secure_udelay	20	static
+../arch/arm/mach-stm32mp/psci.c:386:21:secure_waitbits	28	static
+../arch/arm/mach-stm32mp/psci.c:212:22:stm32mp_raise_sgi0	0	static
+../arch/arm/mach-stm32mp/psci.c:222:15:psci_arch_cpu_entry	8	static
+../arch/arm/mach-stm32mp/psci.c:235:14:psci_features	0	static
+../arch/arm/mach-stm32mp/psci.c:251:14:psci_version	0	static
+../arch/arm/mach-stm32mp/psci.c:256:14:psci_affinity_info	0	static
+../arch/arm/mach-stm32mp/psci.c:273:14:psci_migrate_info_type	0	static
+../arch/arm/mach-stm32mp/psci.c:285:14:psci_cpu_on	24	static
+../arch/arm/mach-stm32mp/psci.c:333:14:psci_cpu_off	8	static
+../arch/arm/mach-stm32mp/psci.c:353:15:psci_system_reset	0	static
+../arch/arm/mach-stm32mp/psci.c:362:15:psci_system_off	0	static
+../arch/arm/mach-stm32mp/psci.c:701:15:psci_system_suspend	88	static

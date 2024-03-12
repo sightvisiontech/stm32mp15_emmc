@@ -1,0 +1,4 @@
+../cmd/usb_mass_storage.c:44:13:ums_fini	16	static
+../cmd/usb_mass_storage.c:32:12:ums_write_sector	4	static
+../cmd/usb_mass_storage.c:23:12:ums_read_sector	4	static
+../cmd/usb_mass_storage.c:140:12:do_usb_mass_storage	216	static

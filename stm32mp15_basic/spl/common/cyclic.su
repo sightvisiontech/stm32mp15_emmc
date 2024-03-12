@@ -1,0 +1,6 @@
+../common/cyclic.c:23:20:cyclic_get_list	0	static
+../common/cyclic.c:29:21:cyclic_register	24	static
+../common/cyclic.c:51:5:cyclic_unregister	8	static
+../common/cyclic.c:59:6:cyclic_run	56	static
+../common/cyclic.c:102:6:schedule	0	static
+../common/cyclic.c:116:5:cyclic_unregister_all	8	static

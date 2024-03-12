@@ -1,0 +1,5 @@
+../cmd/cyclic.c:83:1:complete_cyclic	24	static
+../cmd/cyclic.c:61:12:do_cyclic_list	56	static
+../cmd/cyclic.c:22:13:cyclic_demo	0	static
+../cmd/cyclic.c:83:1:do_cyclic	24	static
+../cmd/cyclic.c:30:12:do_cyclic_demo	24	static

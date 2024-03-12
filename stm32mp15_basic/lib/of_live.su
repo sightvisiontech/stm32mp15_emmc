@@ -1,0 +1,8 @@
+../lib/of_live.c:50:14:unflatten_dt_node	80	static
+../lib/of_live.c:367:12:check_space	8	static
+../lib/of_live.c:386:12:flatten_node	16	static
+../lib/of_live.c:264:5:unflatten_device_tree	48	static
+../lib/of_live.c:322:5:of_live_build	8	static
+../lib/of_live.c:342:6:of_live_free	0	static
+../lib/of_live.c:348:5:of_live_create_empty	16	static
+../lib/of_live.c:437:5:of_live_flatten	16	static

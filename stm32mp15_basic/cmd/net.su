@@ -1,0 +1,9 @@
+../cmd/net.c:385:12:netboot_common	80	static
+../cmd/net.c:29:12:do_bootp	0	static
+../cmd/net.c:43:5:do_tftpb	16	static
+../cmd/net.c:139:12:do_dhcp	0	static
+../cmd/net.c:749:12:do_net	24	static
+../cmd/net.c:680:12:do_net_list	48	static
+../cmd/net.c:459:12:do_ping	8	static
+../cmd/net.c:695:12:do_net_stats	40	static
+../cmd/net.c:151:5:dhcp_run	88	static

@@ -1,0 +1,3 @@
+../drivers/mtd/nand/spi/paragon.c:43:12:pn26g0xa_ooblayout_ecc	0	static
+../drivers/mtd/nand/spi/paragon.c:55:12:pn26g0xa_ooblayout_free	0	static
+../drivers/mtd/nand/spi/paragon.c:72:12:pn26g0xa_ecc_get_status	0	static

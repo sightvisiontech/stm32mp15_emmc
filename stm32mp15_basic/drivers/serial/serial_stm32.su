@@ -1,0 +1,7 @@
+../drivers/serial/serial_stm32.c:73:12:stm32_serial_setconfig	16	static
+../drivers/serial/serial_stm32.c:165:12:stm32_serial_pending	8	static
+../drivers/serial/serial_stm32.c:121:12:stm32_serial_getc	8	static
+../drivers/serial/serial_stm32.c:250:12:stm32_serial_of_to_plat	16	static
+../drivers/serial/serial_stm32.c:194:12:stm32_serial_probe	88	static
+../drivers/serial/serial_stm32.c:158:12:stm32_serial_putc	8	static
+../drivers/serial/serial_stm32.c:63:12:stm32_serial_setbrg	32	static

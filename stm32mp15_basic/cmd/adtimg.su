@@ -1,0 +1,5 @@
+../cmd/adtimg.c:213:12:do_adtimg	24	static
+../cmd/adtimg.c:45:12:adtimg_check_working_img	8	static
+../cmd/adtimg.c:60:12:do_adtimg_dump	16	static
+../cmd/adtimg.c:21:12:do_adtimg_addr	16	static
+../cmd/adtimg.c:185:12:do_adtimg_get	32	static

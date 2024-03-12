@@ -1,0 +1,3 @@
+../cmd/nvedit.c:205:12:_do_env_set.constprop	56	static
+../cmd/nvedit.c:61:5:env_get_id	0	static
+../cmd/nvedit.c:285:5:env_set	24	static

@@ -1,0 +1,6 @@
+../drivers/mtd/nand/core.c:29:6:nanddev_isbad	24	static
+../drivers/mtd/nand/core.c:68:5:nanddev_markbad	16	static
+../drivers/mtd/nand/core.c:109:6:nanddev_isreserved	16	static
+../drivers/mtd/nand/core.c:167:5:nanddev_mtd_erase	64	static
+../drivers/mtd/nand/core.c:202:5:nanddev_init	16	static
+../drivers/mtd/nand/core.c:247:6:nanddev_cleanup	0	static

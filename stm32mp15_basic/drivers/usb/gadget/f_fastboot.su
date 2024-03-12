@@ -1,0 +1,14 @@
+../drivers/usb/gadget/f_fastboot.c:298:28:fastboot_start_ep	16	static
+../drivers/usb/gadget/f_fastboot.c:272:13:fastboot_unbind	0	static
+../drivers/usb/gadget/f_fastboot.c:369:12:fastboot_add	16	static
+../drivers/usb/gadget/f_fastboot.c:279:13:fastboot_disable	8	static
+../drivers/usb/gadget/f_fastboot.c:199:13:fastboot_complete	0	static
+../drivers/usb/gadget/f_fastboot.c:423:13:compl_do_reset	8	static
+../drivers/usb/gadget/f_fastboot.c:489:13:do_exit_on_complete	0	static
+../drivers/usb/gadget/f_fastboot.c:494:13:do_bootm_on_complete	8	static
+../drivers/usb/gadget/f_fastboot.c:429:21:rx_bytes_expected	16	static
+../drivers/usb/gadget/f_fastboot.c:207:12:fastboot_bind	32	static
+../drivers/usb/gadget/f_fastboot.c:418:12:fastboot_tx_write_str.isra	24	static
+../drivers/usb/gadget/f_fastboot.c:453:13:rx_handler_dl_image	88	static
+../drivers/usb/gadget/f_fastboot.c:510:13:rx_handler_command	104	static
+../drivers/usb/gadget/f_fastboot.c:317:12:fastboot_set_alt	16	static

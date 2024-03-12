@@ -1,0 +1,1 @@
+cmd_spl/drivers/misc/built-in.o :=  rm -f spl/drivers/misc/built-in.o; arm-linux-gnueabi-ar cDPrsT spl/drivers/misc/built-in.o spl/drivers/misc/misc-uclass.o spl/drivers/misc/stm32mp_fuse.o spl/drivers/misc/stm32_rcc.o

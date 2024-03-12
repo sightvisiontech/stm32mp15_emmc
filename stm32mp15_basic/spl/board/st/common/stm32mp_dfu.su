@@ -1,0 +1,3 @@
+../board/st/common/stm32mp_dfu.c:73:13:board_get_alt_info_mtd	40	static
+../board/st/common/stm32mp_dfu.c:21:13:board_get_alt_info_mmc	216	static
+../board/st/common/stm32mp_dfu.c:104:6:set_dfu_alt_info	1112	static

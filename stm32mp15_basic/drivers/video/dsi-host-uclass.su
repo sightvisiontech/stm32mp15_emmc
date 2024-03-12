@@ -1,0 +1,2 @@
+../drivers/video/dsi-host-uclass.c:14:5:dsi_host_init	4	static
+../drivers/video/dsi-host-uclass.c:28:5:dsi_host_enable	0	static

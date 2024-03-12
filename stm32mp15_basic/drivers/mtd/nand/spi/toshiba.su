@@ -1,0 +1,3 @@
+../drivers/mtd/nand/spi/toshiba.c:44:12:tx58cxgxsxraix_ooblayout_ecc	0	static
+../drivers/mtd/nand/spi/toshiba.c:56:12:tx58cxgxsxraix_ooblayout_free	0	static
+../drivers/mtd/nand/spi/toshiba.c:74:12:tx58cxgxsxraix_ecc_get_status	72	static

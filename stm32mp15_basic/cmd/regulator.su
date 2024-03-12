@@ -1,0 +1,13 @@
+../cmd/regulator.c:443:12:do_regulator	24	static
+../cmd/regulator.c:20:12:failure	8	static
+../cmd/regulator.c:88:12:do_list	40	static
+../cmd/regulator.c:27:12:do_dev	16	static
+../cmd/regulator.c:60:12:curr_dev_and_plat	40	static
+../cmd/regulator.c:411:12:do_disable	16	static
+../cmd/regulator.c:391:12:do_enable	16	static
+../cmd/regulator.c:355:12:do_mode	32	static
+../cmd/regulator.c:315:12:do_current	24	static
+../cmd/regulator.c:265:12:do_value	24	static
+../cmd/regulator.c:115:12:constraint	16	static
+../cmd/regulator.c:144:12:do_info	88	static
+../cmd/regulator.c:240:12:do_status	56	static

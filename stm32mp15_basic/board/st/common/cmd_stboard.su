@@ -1,0 +1,2 @@
+../board/st/common/cmd_stboard.c:62:13:display_stboard	16	static
+../board/st/common/cmd_stboard.c:73:12:do_stboard	80	static

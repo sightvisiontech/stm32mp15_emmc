@@ -1,0 +1,7 @@
+../lib/efi_loader/efi_bootmgr.c:89:21:try_load_from_file_path	64	static
+../lib/efi_loader/efi_bootmgr.c:183:21:try_load_entry	104	static
+../lib/efi_loader/efi_bootmgr.c:286:14:efi_bootmgr_load	48	static
+../lib/efi_loader/efi_bootmgr.c:528:14:efi_bootmgr_get_unused_bootoption	48	static
+../lib/efi_loader/efi_bootmgr.c:563:14:efi_bootmgr_append_bootorder	40	static
+../lib/efi_loader/efi_bootmgr.c:603:14:efi_bootmgr_delete_boot_option	72	static
+../lib/efi_loader/efi_bootmgr.c:656:14:efi_bootmgr_update_media_device_boot_option	152	static

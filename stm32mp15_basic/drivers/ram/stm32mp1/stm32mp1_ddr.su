@@ -1,0 +1,6 @@
+../drivers/ram/stm32mp1/stm32mp1_ddr.c:299:13:set_reg	48	static
+../drivers/ram/stm32mp1/stm32mp1_ddr.c:584:13:wait_sw_done_ack	16	static
+../drivers/ram/stm32mp1/stm32mp1_ddr.c:546:13:ddrphy_idone_wait	16	static
+../drivers/ram/stm32mp1/stm32mp1_ddr.c:536:13:stm32mp1_ddr_interactive	0	static
+../drivers/ram/stm32mp1/stm32mp1_ddr.c:686:12:board_ddr_power_init	0	static
+../drivers/ram/stm32mp1/stm32mp1_ddr.c:692:6:stm32mp1_ddr_init	24	static

@@ -1,0 +1,7 @@
+../drivers/video/stm32/stm32_dsi.c:241:13:dsi_phy_post_set_mode	8	static
+../drivers/video/stm32/stm32_dsi.c:388:12:stm32_dsi_set_backlight	40	static
+../drivers/video/stm32/stm32_dsi.c:342:12:stm32_dsi_attach	160	static
+../drivers/video/stm32/stm32_dsi.c:210:12:dsi_phy_init	16	static
+../drivers/video/stm32/stm32_dsi.c:421:12:stm32_dsi_probe	88	static
+../drivers/video/stm32/stm32_dsi.c:409:12:stm32_dsi_bind	16	static
+../drivers/video/stm32/stm32_dsi.c:265:12:dsi_get_lane_mbps	112	static

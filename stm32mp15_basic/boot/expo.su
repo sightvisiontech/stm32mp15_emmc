@@ -1,0 +1,17 @@
+../boot/expo.c:18:5:expo_new	24	static
+../boot/expo.c:44:6:expo_destroy	16	static
+../boot/expo.c:59:6:resolve_id	0	static
+../boot/expo.c:70:6:expo_set_dynamic_start	0	static
+../boot/expo.c:75:5:expo_str	24	static
+../boot/expo.c:90:13:expo_get_str	8	static
+../boot/expo.c:102:5:expo_set_display	24	static
+../boot/expo.c:118:5:expo_calc_dims	16	static
+../boot/expo.c:142:6:expo_set_text_mode	0	static
+../boot/expo.c:147:15:expo_lookup_scene_id	8	static
+../boot/expo.c:159:5:expo_set_scene_id	16	static
+../boot/expo.c:176:5:expo_first_scene_id	0	static
+../boot/expo.c:188:5:expo_render	16	static
+../boot/expo.c:218:5:expo_send_key	16	static
+../boot/expo.c:242:5:expo_action_get	0	static
+../boot/expo.c:250:5:expo_apply_theme	16	static
+../boot/expo.c:272:5:expo_iter_scene_objs	24	static

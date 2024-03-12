@@ -1,0 +1,9 @@
+../drivers/rtc/stm32_rtc.c:94:13:stm32_rtc_unlock	8	static
+../drivers/rtc/stm32_rtc.c:144:13:stm32_rtc_exit_init_mode	8	static
+../drivers/rtc/stm32_rtc.c:67:12:stm32_rtc_get	16	static
+../drivers/rtc/stm32_rtc.c:109:12:stm32_rtc_enter_init_mode	16	static
+../drivers/rtc/stm32_rtc.c:127:12:stm32_rtc_wait_sync	16	static
+../drivers/rtc/stm32_rtc.c:153:12:stm32_rtc_set_time	24	static
+../drivers/rtc/stm32_rtc.c:202:12:stm32_rtc_reset	0	static
+../drivers/rtc/stm32_rtc.c:176:12:stm32_rtc_set	28	static
+../drivers/rtc/stm32_rtc.c:286:12:stm32_rtc_probe	112	static

@@ -1,0 +1,13 @@
+../drivers/phy/phy-stm32-usbphyc.c:639:14:stm32_usbphyc_clk48_get_rate	0	static
+../drivers/phy/phy-stm32-usbphyc.c:414:12:stm32_usbphyc_of_xlate	32	static
+../drivers/phy/phy-stm32-usbphyc.c:366:12:stm32_usbphyc_phy_power_off	16	static
+../drivers/phy/phy-stm32-usbphyc.c:343:12:stm32_usbphyc_phy_power_on	8	static
+../drivers/phy/phy-stm32-usbphyc.c:225:12:stm32_usbphyc_pll_enable	24	static
+../drivers/phy/phy-stm32-usbphyc.c:307:12:stm32_usbphyc_phy_init	16	static
+../drivers/phy/phy-stm32-usbphyc.c:644:12:stm32_usbphyc_clk48_enable	16	static
+../drivers/phy/phy-stm32-usbphyc.c:392:12:stm32_usbphyc_get_regulator	88	static
+../drivers/phy/phy-stm32-usbphyc.c:537:12:stm32_usbphyc_probe	96	static
+../drivers/phy/phy-stm32-usbphyc.c:527:12:stm32_usbphyc_bind	16	static
+../drivers/phy/phy-stm32-usbphyc.c:271:12:stm32_usbphyc_pll_disable	8	static
+../drivers/phy/phy-stm32-usbphyc.c:326:12:stm32_usbphyc_phy_exit	16	static
+../drivers/phy/phy-stm32-usbphyc.c:665:12:stm32_usbphyc_clk48_disable	16	static

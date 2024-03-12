@@ -1,0 +1,67 @@
+REFERENCE: https://docs.u-boot.org/en/latest/board/st/stm32mp1.html
+
+
+1 - get the toolchain
+
+	# sudo apt-get install gcc-arm-linux-gnueabi
+
+
+2 - export toolchain
+
+	# export CROSS_COMPILE=arm-linux-gnueabi-
+
+
+3 - uboot source
+	# git clone git@github.com:u-boot/u-boot.git
+	
+
+
+
+4 - export toolchain
+
+	# sudo apt-get install gcc-arm-linux-gnueabi
+	# export CROSS_COMPILE=arm-linux-gnueabi-
+
+
+5 - add to the stm32mp15_basic_defconfig
+
+	CONFIG_CMD_GPT=y
+
+
+6 - basic boot on STM32MP15x dk1:
+
+
+	# export KBUILD_OUTPUT=stm32mp15_basic
+	# make mrproper
+	# make stm32mp15_basic_defconfig
+	# make DEVICE_TREE=stm32mp157a-dk1 all
+
+
+7 - prepare the SD-card
+	
+	# sgdisk -o /dev/<SD card dev>
+	# sgdisk --resize-table=128 -a 1 -n 1:34:545 -c 1:fsbl1 -n 2:546:1057 -c 2:fsbl2 -n 3:1058:5153 -c 3:ssbl -n 4:5154: -c 4:rootfs -A 4:set:2 -p /dev/sdx
+	# mkfs.ext4 /dev/sdx4
+	# dd if=u-boot-spl.stm32 of=/dev/sdx1
+	# dd if=u-boot-spl.stm32 of=/dev/sdx2
+	# dd if=u-boot.img of=/dev/sdx3
+	# cp ../u-boot/stm32mp15_basic/u-boot.stm32 /mnt/sdx4_partition
+	# cp ../u-boot/stm32mp15_basic/u-boot.img /mnt/sdx4_partition
+
+
+8 - prepare the emmc
+
+	# setenv emmc_part "name=fip,size=4MiB;name=bootfs,type=linux,bootable,size=64MiB;name=rootfs,type=linux,size=512"
+	# gpt write mmc 1 ${emmc_part}
+
+	# ext4load mmc 0:4 0xC0000000 u-boot-spl.stm32
+	# mmc dev 1
+	# mmc partconf 1 1 1 1
+	# mmc write ${fileaddr} 0 200
+	# mmc partconf 1 1 1 0
+
+	# ext4load mmc 0:4 0xC0000000 u-boot.img
+	# mmc dev 1
+	# part start mmc 1 1 partstart
+	# mmc write ${fileaddr} ${partstart} ${filesize}
+

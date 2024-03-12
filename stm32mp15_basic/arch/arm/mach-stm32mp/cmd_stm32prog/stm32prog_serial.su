@@ -1,0 +1,15 @@
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:293:13:stm32prog_serial_putc	16	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:396:13:stm32prog_serial_result	16	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:409:13:get_cmd_command	16	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:427:13:get_version_command	8	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:242:12:stm32prog_serial_getc_err	16	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:258:11:stm32prog_serial_getc	8	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:372:18:get_address	16	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:489:13:read_memory_command	24	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:718:13:read_partition_command	312	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:454:13:get_phase_command	24	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:438:13:get_id_command	8	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:565:13:download_command	72	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:534:13:start_command	40	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:191:5:stm32prog_serial_init	48	static
+../arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c:796:6:stm32prog_serial_loop	56	static

@@ -1,0 +1,3 @@
+../drivers/power/regulator/regulator_common.c:17:5:regulator_common_of_to_plat	32	static
+../drivers/power/regulator/regulator_common.c:52:5:regulator_common_get_enable	0	static
+../drivers/power/regulator/regulator_common.c:62:5:regulator_common_set_enable	40	static
